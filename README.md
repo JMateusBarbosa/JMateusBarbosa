@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - C/C++
 - Mysql
 -->
+< div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JMateusBarbosa&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMateusBarbosa&layout=compact&theme=tokyonight"/>
+</div>
